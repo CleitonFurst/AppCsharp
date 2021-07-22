@@ -1,0 +1,16 @@
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\Projeto_01.exe
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\Projeto_01.deps.json
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\Projeto_01.runtimeconfig.json
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\Projeto_01.runtimeconfig.dev.json
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\Projeto_01.dll
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\ref\Projeto_01.dll
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\bin\Debug\net5.0\Projeto_01.pdb
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.csproj.AssemblyReference.cache
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.AssemblyInfoInputs.cache
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.AssemblyInfo.cs
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.csproj.CoreCompileInputs.cache
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.dll
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\ref\Projeto_01.dll
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.pdb
+C:\Users\furst\OneDrive\Área de Trabalho\AppCsharp\AppCsharp\Projeto_01\Projeto_01\obj\Debug\net5.0\Projeto_01.genruntimeconfig.cache
